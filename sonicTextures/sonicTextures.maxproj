@@ -2,7 +2,7 @@
 	"name" : "sonicTextures",
 	"version" : 1,
 	"creationdate" : 3847982495,
-	"modificationdate" : 3847982515,
+	"modificationdate" : 3861207516,
 	"viewrect" : [ 25.0, 119.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -15,6 +15,19 @@
 				"local" : 1,
 				"toplevel" : 1
 			}
+,
+			"catart-mubu-tutorial 5a segmentation analysis.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+
+		}
+,
+		"code" : 		{
+
+		}
+,
+		"externals" : 		{
 
 		}
 
