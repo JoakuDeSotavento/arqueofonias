@@ -41,13 +41,12 @@
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-45",
-					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1297.0, 146.0, 89.0, 35.0 ],
-					"text" : "0.13583 0.44904"
+					"patching_rect" : [ 1273.0, 146.0, 113.0, 22.0 ],
+					"text" : "0.136163 0.260866"
 				}
 
 			}
@@ -71,7 +70,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1249.0, 45.0, 70.0, 35.0 ],
+					"patching_rect" : [ 1242.0, 33.0, 70.0, 35.0 ],
 					"text" : "0.346457 0.527559"
 				}
 
@@ -119,7 +118,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1215.0, 26.0, 90.0, 20.0 ],
+					"patching_rect" : [ 1211.0, 12.0, 90.0, 20.0 ],
 					"text" : "MIDI X Y"
 				}
 
@@ -173,7 +172,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 346.206872820854187, 256.499985000000038, 206.0, 19.0 ],
-					"text" : "1 files / 517 segments / 8.54 min"
+					"text" : "6 files / 2321 segments / 41.24 min"
 				}
 
 			}
@@ -1604,6 +1603,7 @@
 					"patching_rect" : [ 346.206872820854187, 254.999985000000038, 206.0, 22.0 ],
 					"setminmax" : [ 0.0, 1.0 ],
 					"setstyle" : 1,
+					"size" : 6,
 					"slidercolor" : [ 0.516304, 0.516304, 0.516304, 1.0 ],
 					"spacing" : 1
 				}
@@ -1846,7 +1846,7 @@
 					"cursor_noringoffset" : 0,
 					"cursor_numextracursors" : 0,
 					"cursor_outputdata" : 0,
-					"cursor_position" : [ 0.215973824262619, 3047755.25 ],
+					"cursor_position" : [ 1510.087833366241512, 0.028379066127334 ],
 					"cursor_shape" : "cross",
 					"cursor_size" : 1.0,
 					"cursor_sizeunit" : 0,
@@ -1858,7 +1858,7 @@
 					"cursor_symbolwidth" : 0.0,
 					"cursor_visible" : 1,
 					"dirtypatcher" : 1,
-					"domain_bounds" : [ 0.108655554290219, 0.900968564063571 ],
+					"domain_bounds" : [ -0.158445965056039, 5042.528283327581448 ],
 					"domainruler_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"domainruler_bgcolordefault" : 0,
 					"domainruler_fgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
