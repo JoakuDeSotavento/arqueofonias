@@ -46,7 +46,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1273.0, 146.0, 113.0, 22.0 ],
-					"text" : "0.136163 0.260866"
+					"text" : "0.009009 0.841324"
 				}
 
 			}
@@ -65,13 +65,12 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-42",
-					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1242.0, 33.0, 70.0, 35.0 ],
-					"text" : "0.346457 0.527559"
+					"patching_rect" : [ 1242.0, 33.0, 70.0, 22.0 ],
+					"text" : "0. 0."
 				}
 
 			}
@@ -172,7 +171,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 346.206872820854187, 256.499985000000038, 206.0, 19.0 ],
-					"text" : "6 files / 2321 segments / 41.24 min"
+					"text" : "5 files / 2265 segments / 41.09 min"
 				}
 
 			}
@@ -1603,7 +1602,7 @@
 					"patching_rect" : [ 346.206872820854187, 254.999985000000038, 206.0, 22.0 ],
 					"setminmax" : [ 0.0, 1.0 ],
 					"setstyle" : 1,
-					"size" : 6,
+					"size" : 5,
 					"slidercolor" : [ 0.516304, 0.516304, 0.516304, 1.0 ],
 					"spacing" : 1
 				}
@@ -1828,9 +1827,9 @@
 					"continousediting" : 0,
 					"cursor_circleedgecolor" : [ 1.0, 0.0, 0.0, 1.0 ],
 					"cursor_circlefillcolor" : [ 1.0, 0.0, 0.0, 1.0 ],
-					"cursor_circlefilled" : 1,
-					"cursor_circleheight" : 0.0,
-					"cursor_circlewidth" : 0.0,
+					"cursor_circlefilled" : 0,
+					"cursor_circleheight" : 266.426422119140625,
+					"cursor_circlewidth" : 78.249488830566406,
 					"cursor_color" : [ 0.776471, 0.066667, 0.066667, 0.286275 ],
 					"cursor_crossheight" : -1.0,
 					"cursor_crosswidth" : -1.0,
@@ -1846,19 +1845,19 @@
 					"cursor_noringoffset" : 0,
 					"cursor_numextracursors" : 0,
 					"cursor_outputdata" : 0,
-					"cursor_position" : [ 1510.087833366241512, 0.028379066127334 ],
+					"cursor_position" : [ 0.039027001708746, 0.744323432445526 ],
 					"cursor_shape" : "cross",
 					"cursor_size" : 1.0,
 					"cursor_sizeunit" : 0,
 					"cursor_symbol" : "circle",
 					"cursor_symboledgecolor" : [ 1.0, 0.0, 0.0, 1.0 ],
 					"cursor_symbolfillcolor" : [ 1.0, 0.0, 0.0, 1.0 ],
-					"cursor_symbolfilled" : 1,
-					"cursor_symbolheight" : 0.0,
-					"cursor_symbolwidth" : 0.0,
+					"cursor_symbolfilled" : 0,
+					"cursor_symbolheight" : 266.426422119140625,
+					"cursor_symbolwidth" : 78.249488830566406,
 					"cursor_visible" : 1,
 					"dirtypatcher" : 1,
-					"domain_bounds" : [ -0.158445965056039, 5042.528283327581448 ],
+					"domain_bounds" : [ 0.026701975607529, 0.900576578884964 ],
 					"domainruler_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"domainruler_bgcolordefault" : 0,
 					"domainruler_fgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -1870,8 +1869,8 @@
 					"domainruler_visible" : 1,
 					"domainscrollbar_color" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"domainscrollbar_colordefault" : 0,
-					"domainscrollbar_size" : 10,
-					"domainscrollbar_visible" : 0,
+					"domainscrollbar_size" : 3,
+					"domainscrollbar_visible" : 1,
 					"embed" : 0,
 					"enablemousewheel" : 0,
 					"externalfiles" : 1,
@@ -2138,7 +2137,7 @@
 			}
 , 			{
 				"box" : 				{
-					"attr" : "period",
+					"attr" : "outputdelays",
 					"id" : "obj-78",
 					"maxclass" : "attrui",
 					"numinlets" : 1,
